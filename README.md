@@ -17,7 +17,7 @@
 ```typescript
 const Dev-ixAAr = {
     location: "Sri Lanka 🇱🇰",
-    education: "Python , Java and Lerning More Programming Language",
+    education: "Python , Java and Learning More Programming Language",
     roles: ["Full Stack Developer", "App Developer", "Content Creater"],
     currentFocus: ["ERROR 404"],
     communities: {
