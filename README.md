@@ -1,155 +1,95 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=45&duration=7000&pause=2000&color=197AD7&center=true&vCenter=true&width=435&lines=Hey+%2C+There.........!;I+am+%2C;Web+Developer;Android+App+developer+;Content+Creater" alt="Typing SVG" />
-</h1>
+# Benushika IshaRa
 
-<p align="center">
-  <strong>A versatile developer passionate about crafting digital experiences across platforms 🚀</strong>
-</p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=435&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;App+Developer;Content+Creater")
 
----
+  [![GitHub followers](https://img.shields.io/github/followers/Dev-ixAAr?label=Follow&style=social)](https://github.com/Dev-ixAAr)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Dev-ixAAr?style=social)](https://x.com/Dev_ixAAr)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benushika-ishra/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:isharaweerasuri@gmail.com)
+  
+  <img src="https://komarev.com/ghpvc/?username=Dev-ixAAr&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
-### 🌟 About Me
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td><strong>🌱 Exploring</strong></td>
-    <td>Android Development</td>
-  </tr>
-  <tr>
-    <td><strong>💬 Ask Me About</strong></td>
-    <td>Full Stack Development, Mobile Apps, Design</td>
-  </tr>
-  <tr>
-    <td><strong>⚡ Fun Fact</strong></td>
-    <td>Call me the Joker</td>
-  </tr>
-</table>
+```typescript
+const Dev-ixAAr = {
+    location: "Sri Lanka 🇱🇰",
+    education: "Python , Java and Lerning More Programming Language",
+    roles: ["Full Stack Developer", "App Developer", "Content Creater"],
+    currentFocus: ["ERROR 404"],
+    communities: {
+        founder: ["Talk With ixAAr"],
+        member: ["Team Zyntax"]
+    },
+    lifePhilosophy: "Learning something new every day 🚀"
+};
+```
 
----
+## 🛠️ Tech Arsenal
 
-### 📫 Connect with Me
+<div align="center">
 
-<p>
-  <a href="mailto:isharaweerasuri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-007FFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/benushika-ishra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev-benushika.website/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-007FFF?style=for-the-badge&logo=netlify&logoColor=white" /> 
-  </a>
-  <a href="https://wa.me/+94740741282" target="_blank">
-     <img src="https://img.shields.io/badge/WhatsApp-007FFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mr_dev_ixaar/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-007FFF?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/BenushikaXIshRa/" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-007FFF?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🛠️ Technology Stack
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<table>
-  <tr>
-    <td><strong>👨‍💻 Programming Languages</strong></td>
-    <td>
-      <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" /></a>
-      <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=light" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=light" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Frontend Development</strong></td>
-    <td>
-      <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=light" /></a>
-      <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" /></a>
-      <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=light" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=light" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📱 Mobile Development</strong></td>
-    <td>
-      <a href="https://developer.android.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /></a>
-      <a href="https://flutter.dev/docs" target="_blank"><img src="https://skillicons.dev/icons?i=flutter&theme=light" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>💾 Databases</strong></td>
-    <td>
-      <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" /></a>
-      <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></a>
-      <a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" /></a>
-      <a href="https://docs.microsoft.com/en-us/sql/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>☁️ DevOps & Cloud</strong></td>
-    <td>
-      <a href="https://www.docker.com/get-started" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" /></a>
-      <a href="https://aws.amazon.com/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" /></a>
-      <a href="https://firebase.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=light" /></a>
-      <a href="https://devcenter.heroku.com/categories/reference" target="_blank"><img src="https://skillicons.dev/icons?i=heroku&theme=light" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🎯 Testing</strong></td>
-    <td>
-      <a href="https://www.selenium.dev/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=selenium&theme=light" /></a>
-      <a href="https://developer.android.com/training/testing" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/></a>
-      <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Design Tools</strong></td>
-    <td>
-      <a href="https://www.figma.com/downloads/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=light" /></a>
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps&theme=light" /></a>
-      <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai&theme=light" /></a>
-    </td>
-  </tr>
-</table>
+### Tools & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-ixAAr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-ixAAr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-ixAAr&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
+</div>
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-benushika.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benushika-ishra/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kdjayakody)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_dev_ixaar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isharaweerasuri@gmail.com)
+
+</div>
 
 ---
 
-### 🐍 Contributions Activity
+<div align="center">
+  
+  **💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!**
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
 
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
-### ⚡ GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dev-ixAAr&count_private=true&theme=blue-green&border_radius=10" alt="streak stats"/>
-    </td>
-    <td>
-      <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Dev-ixAAr&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&border_radius=10" alt="readme stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width=450 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dev-ixAAr&hide=HTML&langs_count=8&layout=compact&theme=blue-green&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 👨‍💻 Projects & Contributions
-
-Explore my repositories to see projects in mobile development, AI/ML, full-stack applications, and more! 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=100&section=footer"/>
-</p>
+<!-- source code by kd jayakody -->
