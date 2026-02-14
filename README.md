@@ -48,13 +48,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-ixAAr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-ixAAr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-ixAAr&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Language Stats with Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-ixAAr&layout=donut&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-ixAAr&layout=compact&theme=tokyonight" width="38%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-ixAAr&theme=tokyonight" width="60%" />
 </p>
 
@@ -72,7 +72,7 @@
 ## <img src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" width="30"> GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-ixAAr&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-ixAAr&theme=tokyonight" width="400" />
 </p>
 
 <!-- Animated DevOps Tools Section -->
@@ -89,19 +89,17 @@
 </div>
 
 <!-- Animated Project Showcase -->
-## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Featured Projects
+<!-- ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Featured Projects
 
 <p align="center">
   <a href="https://github.com/Dev-ixAAr/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-ixAAr&repo=project1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Dev-ixAAr/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-ixAAr&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 <!-- Random Dev Quote -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Random Dev Quote
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzEwdm56bmVlZWMwNnVsZnR3eTJuanY1Y2VrZ3M5M25mMjVvYWY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pg6xdYByYefkQJqHtT/giphy.gif" width="30"> Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -114,13 +112,13 @@
   <a href="mailto:isharaweerasuri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/benushika-ishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.facebook.com/benushika.ishara">
+    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://benushika.me">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
@@ -133,4 +131,13 @@
 <summary>📊 <b>More GitHub Analytics</b></summary>
 <br>
 <p align="center">
-  <img 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-ixAAr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-ixAAr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-ixAAr&theme=tokyonight" />
+</p>
+</details>
+
+<!-- Fun Animated GIF at the end -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
