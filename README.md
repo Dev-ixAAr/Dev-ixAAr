@@ -1,95 +1,123 @@
-# Benushika IshaRa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20There!%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;DevOps+Engineer+⚙️;Cloud+Architecture+Enthusiast+☁️;Open+Source+Contributor+💻" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-ixAAr&label=Profile%20Views&color=brightgreen&style=plastic" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Focus-DevOps-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 Currently working on **Microservices Architecture with Kubernetes**
+- 🌱 Learning **Advanced AWS Services & Terraform**
+- 👯 Looking to collaborate on **DevOps Automation Projects**
+- 💬 Ask me about **MERN Stack, Docker, CI/CD, Cloud Infrastructure**
+- ⚡ Fun fact: **I automate everything, even my coffee machine ☕**
+- 📫 Reach me at: **[ඔයාගේ email]**
+
+<br><br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Tech Stack</b>
+
+### 👨‍💻 Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp&theme=dark" />
+  </a>
+</p>
+
+### 🌐 Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,sass,redux,materialui&theme=dark" />
+  </a>
+</p>
+
+### 🔧 Backend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,kafka,rabbitmq,redis,nginx&theme=dark" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,cassandra,elasticsearch,firebase,supabase&theme=dark" />
+  </a>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,prometheus&theme=dark" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,cloudflare&theme=dark" />
+  </a>
+</p>
+
+### 🛠️ Tools & Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,linux,bash&theme=dark" />
+  </a>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b>
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=435&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;App+Developer;Content+Creater")
-
-  [![GitHub followers](https://img.shields.io/github/followers/Dev-ixAAr?label=Follow&style=social)](https://github.com/Dev-ixAAr)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/Dev-ixAAr?style=social)](https://x.com/Dev_ixAAr)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benushika-ishra/)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:isharaweerasuri@gmail.com)
-  
-  <img src="https://komarev.com/ghpvc/?username=Dev-ixAAr&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-## 👨‍💻 About Me
-
-```typescript
-const Dev-ixAAr = {
-    location: "Sri Lanka 🇱🇰",
-    education: "Python , Java and Learning More Programming Language",
-    roles: ["Full Stack Developer", "App Developer", "Content Creater"],
-    currentFocus: ["ERROR 404"],
-    communities: {
-        founder: ["Talk With ixAAr"],
-        member: ["Team Zyntax"]
-    },
-    lifePhilosophy: "Learning something new every day 🚀"
-};
-```
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Tools & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-ixAAr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-ixAAr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-ixAAr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-ixAAr&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-ixAAr&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-ixAAr&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🤝 Connect & Collaborate
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect!</b>
 
-<div align="center">
+<p align="center">
+  <a href="[LinkedIn-URL]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[Twitter-URL]"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:[ඔයාගේ-email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[Website-URL]"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="[Medium-URL]"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="[StackOverflow-URL]"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-benushika.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benushika-ishra/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dev_ixAAr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_dev_ixaar/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isharaweerasuri@gmail.com)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-ixAAr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+</p>
 
-</div>
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-ixAAr&theme=tokyo-night&hide_border=true" />
+</p>
 
----
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Dev-ixAAr/Dev-ixAAr/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<div align="center">
-  
-  **💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!**
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 
-
-
-<!-- source code by kd jayakody -->
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</p>
