@@ -1,42 +1,40 @@
-name: Generate Snake Animation
+name: generate animation
 
-# කවදාද මේක run වෙන්නේ
 on:
-  # UTC time zone එකේ හැම දවසකම රෑ 12ට (ලංකාවේ උදේ 5.30ට)
+  # හැම පැය 24කට වරක් run වෙන්න
   schedule:
-    - cron: "30 0 * * *"
-    
-  # Actions tab එකෙන් manually run කරන්න පුළුවන්
+    - cron: "0 */24 * * *" 
+  
+  # manually run කරන්න පුළුවන් වෙන්න
   workflow_dispatch:
   
-  # README file එක update කරාම
+  # main branch එකට push කරන හැම වෙලාවකම
   push:
     branches:
-      - main
-
+    - main
+    
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
-      # Repository එක checkout කරගන්නවා
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      # Snake SVG files generate කරනවා
-      - name: Generate Snake
+      # snake animation එක generate කරන පියවර
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      
-      # Generated files push කරනවා
-      - name: Push Snake files
-        uses: EndBug/add-and-commit@v9
+          
+      # හදපු file එක output branch එකට push කරන පියවර
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          branch: output
-          message: '🐍 Update snake animation'
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
