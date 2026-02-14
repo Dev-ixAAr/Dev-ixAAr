@@ -1,0 +1,42 @@
+name: Generate Snake Animation
+
+# කවදාද මේක run වෙන්නේ
+on:
+  # UTC time zone එකේ හැම දවසකම රෑ 12ට (ලංකාවේ උදේ 5.30ට)
+  schedule:
+    - cron: "30 0 * * *"
+    
+  # Actions tab එකෙන් manually run කරන්න පුළුවන්
+  workflow_dispatch:
+  
+  # README file එක update කරාම
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Repository එක checkout කරගන්නවා
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      # Snake SVG files generate කරනවා
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      
+      # Generated files push කරනවා
+      - name: Push Snake files
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: '🐍 Update snake animation'
