@@ -81,8 +81,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-ixAAr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-ixAAr&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-ixAAr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-ixAAr&layout=compact&theme=algolia" height="180em" />
 </div>
 
 <div align="center">
