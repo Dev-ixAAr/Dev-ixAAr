@@ -24,7 +24,7 @@
 - 👯 Looking to collaborate on **DevOps Automation Projects**
 - 💬 Ask me about **MERN Stack, Docker, CI/CD, Cloud Infrastructure**
 - ⚡ Fun fact: **I automate everything, even my coffee machine ☕**
-- 📫 Reach me at: **[ඔයාගේ email]**
+- 📫 Reach me at: **isharaweerasuri@gmail.com**
 
 <br><br>
 
